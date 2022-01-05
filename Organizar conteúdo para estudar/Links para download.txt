@@ -1,1 +1,6 @@
 Links para download
+
+PyCharm
+Gitbash
+Github
+VMware
